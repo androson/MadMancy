@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MadMancy/Scenes/Moit.unity
+    guid: 8e8c598a161ebbc409a3b87465253016
   m_configObjects: {}
